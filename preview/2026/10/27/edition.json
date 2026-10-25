@@ -3,6 +3,19 @@
   "agenda": null,
   "agenda_entries": [
     {
+      "application": "無料",
+      "date": "2026-10-31",
+      "end_date": null,
+      "end_time": "16:00",
+      "occurrence_id": "event:e3038dcf24a3ca2a11be33b656f1c04c",
+      "organizer": "八丈島民謡保存会",
+      "source_url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026",
+      "start_time": "13:30",
+      "status": "scheduled",
+      "title": "八丈島の民謡 公開練習会",
+      "venue": "八丈町大賀郷公民館"
+    },
+    {
       "application": "入場無料",
       "date": "2026-11-01",
       "end_time": "17:00",
@@ -13,6 +26,19 @@
       "status": "scheduled",
       "title": "発酵中フェス2026",
       "venue": "八丈町多目的ホール「おじゃれ」"
+    },
+    {
+      "application": "",
+      "date": "2026-10-24",
+      "end_date": "2026-11-03",
+      "end_time": "16:30",
+      "occurrence_id": "event:b3b21c3ae14fbe39a3259c6f955322c6",
+      "organizer": "八丈支庁総務課",
+      "source_url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026",
+      "start_time": "09:00",
+      "status": "scheduled",
+      "title": "八丈島民政資料",
+      "venue": "八丈支庁展示ホール"
     }
   ],
   "alerts": [],
@@ -32,7 +58,7 @@
   "date": "2026-10-27",
   "density": "compact",
   "edition": "朝刊",
-  "evidence_cutoff_at": "2026-10-25T12:47:40.402086+00:00",
+  "evidence_cutoff_at": "2026-10-25T16:55:15.894206+00:00",
   "issue": 0,
   "issue_kind": "unpublished_proof",
   "koyomi": {
@@ -79,7 +105,7 @@
     "tide": "ok",
     "traffic": "no_current_day_status",
     "warnings": "missing_or_stale",
-    "weather": "no_current_day_release"
+    "weather": "stale_or_after_cutoff"
   },
   "shorts": [
     {
@@ -246,11 +272,11 @@
     "permalink": "../../../articles/0ec3b002c5b3a247aeecc390/"
   },
   "traffic": {
-    "acquired_at": "2026-10-24T13:30:18.312874+00:00",
+    "acquired_at": "2026-10-25T14:38:45.959062+00:00",
     "current_rows": [],
     "note": "当日情報は未取得。各社の最新発表へ。",
-    "parsed_rows": 15,
-    "source_issued_at": "2026-10-24T22:30:00+09:00",
+    "parsed_rows": 13,
+    "source_issued_at": "2026-10-25T23:38:00+09:00",
     "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
     "state": "no_current_day_status"
   },
