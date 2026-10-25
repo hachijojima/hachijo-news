@@ -58,7 +58,7 @@
   "date": "2026-10-26",
   "density": "compact",
   "edition": "朝刊",
-  "evidence_cutoff_at": "2026-10-25T16:54:35.021561+00:00",
+  "evidence_cutoff_at": "2026-10-25T17:00:23.671863+00:00",
   "issue": 0,
   "issue_kind": "unpublished_proof",
   "koyomi": {
@@ -89,12 +89,11 @@
       "place": "八丈島（神湊）予測"
     }
   },
-  "layout_type": "dual_lead",
+  "layout_type": "multi_lead",
   "letters": [],
   "next": null,
   "paper_name": "八丈島新聞",
   "prev": null,
-  "production_status": "主要2・短報6（将来日の制作試験・正式発行ではありません）",
   "programs": [],
   "proof": false,
   "published": "",
