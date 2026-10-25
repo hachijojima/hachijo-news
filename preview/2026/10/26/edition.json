@@ -17,21 +17,21 @@
   ],
   "alerts": [],
   "article_order": [
-    "2c9e651628e44679b4c12fc7",
-    "35c78d58ed2d12924b5a137c",
-    "677fd48240d3b48071da4f9b",
-    "566c65b73eeb5320f69b3b95",
-    "c0333161a8b3e3f7334e0ae1",
-    "30dcd26971f337cbe714b952",
-    "4086c9d8c990a45d15e4535c",
-    "d3b1e5bfa2fe9db4633baa4d"
+    "95932cd894de35d8689889ba",
+    "a709a9c5d79d0f79a46dff53",
+    "320d4dad3c475500511080f9",
+    "c4bdd542e39717486353a7db",
+    "3034401bc72e9ea3eb398779",
+    "d3042103038a89ba3f61241b",
+    "d51e9c676b0e0bebb8fec6cb",
+    "c8f7faef5b321cf2b5322ef7"
   ],
   "chart": null,
   "corrections": [],
   "date": "2026-10-26",
   "density": "compact",
   "edition": "朝刊",
-  "evidence_cutoff_at": "2026-10-25T06:41:05.583193+00:00",
+  "evidence_cutoff_at": "2026-10-25T06:46:16.012039+00:00",
   "issue": 0,
   "issue_kind": "unpublished_proof",
   "koyomi": {
@@ -96,9 +96,9 @@
           "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261022-2/"
         }
       ],
-      "article_id": "677fd48240d3b48071da4f9b",
-      "public_id": "677fd48240d3b48071da4f9b",
-      "permalink": "../../../articles/677fd48240d3b48071da4f9b/"
+      "article_id": "320d4dad3c475500511080f9",
+      "public_id": "320d4dad3c475500511080f9",
+      "permalink": "../../../articles/320d4dad3c475500511080f9/"
     },
     {
       "area_units": 8,
@@ -116,9 +116,9 @@
           "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260801-01/"
         }
       ],
-      "article_id": "566c65b73eeb5320f69b3b95",
-      "public_id": "566c65b73eeb5320f69b3b95",
-      "permalink": "../../../articles/566c65b73eeb5320f69b3b95/"
+      "article_id": "c4bdd542e39717486353a7db",
+      "public_id": "c4bdd542e39717486353a7db",
+      "permalink": "../../../articles/c4bdd542e39717486353a7db/"
     },
     {
       "area_units": 7,
@@ -136,9 +136,9 @@
           "url": "https://www.town.hachijo.tokyo.jp/chousei/yosan-zaisei/koyoujigyo-hojo/"
         }
       ],
-      "article_id": "c0333161a8b3e3f7334e0ae1",
-      "public_id": "c0333161a8b3e3f7334e0ae1",
-      "permalink": "../../../articles/c0333161a8b3e3f7334e0ae1/"
+      "article_id": "3034401bc72e9ea3eb398779",
+      "public_id": "3034401bc72e9ea3eb398779",
+      "permalink": "../../../articles/3034401bc72e9ea3eb398779/"
     },
     {
       "area_units": 7,
@@ -155,9 +155,9 @@
           "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261018/"
         }
       ],
-      "article_id": "30dcd26971f337cbe714b952",
-      "public_id": "30dcd26971f337cbe714b952",
-      "permalink": "../../../articles/30dcd26971f337cbe714b952/"
+      "article_id": "d3042103038a89ba3f61241b",
+      "public_id": "d3042103038a89ba3f61241b",
+      "permalink": "../../../articles/d3042103038a89ba3f61241b/"
     },
     {
       "area_units": 7,
@@ -174,9 +174,9 @@
           "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260911-04/"
         }
       ],
-      "article_id": "4086c9d8c990a45d15e4535c",
-      "public_id": "4086c9d8c990a45d15e4535c",
-      "permalink": "../../../articles/4086c9d8c990a45d15e4535c/"
+      "article_id": "d51e9c676b0e0bebb8fec6cb",
+      "public_id": "d51e9c676b0e0bebb8fec6cb",
+      "permalink": "../../../articles/d51e9c676b0e0bebb8fec6cb/"
     },
     {
       "area_units": 6,
@@ -194,9 +194,9 @@
           "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261014/"
         }
       ],
-      "article_id": "d3b1e5bfa2fe9db4633baa4d",
-      "public_id": "d3b1e5bfa2fe9db4633baa4d",
-      "permalink": "../../../articles/d3b1e5bfa2fe9db4633baa4d/"
+      "article_id": "c8f7faef5b321cf2b5322ef7",
+      "public_id": "c8f7faef5b321cf2b5322ef7",
+      "permalink": "../../../articles/c8f7faef5b321cf2b5322ef7/"
     }
   ],
   "side": [
@@ -216,9 +216,9 @@
           "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261023-2/"
         }
       ],
-      "article_id": "35c78d58ed2d12924b5a137c",
-      "public_id": "35c78d58ed2d12924b5a137c",
-      "permalink": "../../../articles/35c78d58ed2d12924b5a137c/"
+      "article_id": "a709a9c5d79d0f79a46dff53",
+      "public_id": "a709a9c5d79d0f79a46dff53",
+      "permalink": "../../../articles/a709a9c5d79d0f79a46dff53/"
     }
   ],
   "television": {
@@ -242,9 +242,9 @@
         "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261023/"
       }
     ],
-    "article_id": "2c9e651628e44679b4c12fc7",
-    "public_id": "2c9e651628e44679b4c12fc7",
-    "permalink": "../../../articles/2c9e651628e44679b4c12fc7/"
+    "article_id": "95932cd894de35d8689889ba",
+    "public_id": "95932cd894de35d8689889ba",
+    "permalink": "../../../articles/95932cd894de35d8689889ba/"
   },
   "weather": {
     "area": "伊豆諸島南部",
