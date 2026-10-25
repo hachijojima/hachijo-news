@@ -1,0 +1,219 @@
+{
+  "actual_published_at": null,
+  "agenda": null,
+  "agenda_entries": [
+    {
+      "application": "入場無料",
+      "date": "2026-11-01",
+      "end_time": "17:00",
+      "occurrence_id": "event:9658268fe9650db8afb4012be3638bec",
+      "organizer": "八丈町",
+      "source_url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/",
+      "start_time": "10:00",
+      "status": "scheduled",
+      "title": "発酵中フェス2026",
+      "venue": "八丈町多目的ホール「おじゃれ」"
+    }
+  ],
+  "alerts": [],
+  "article_order": [
+    "95932cd894de35d8689889ba",
+    "a709a9c5d79d0f79a46dff53"
+  ],
+  "chart": null,
+  "corrections": [],
+  "date": "2026-10-25",
+  "density": "compact",
+  "edition": "朝刊",
+  "evidence_cutoff_at": "2026-10-24T20:30:00+00:00",
+  "issue": 2,
+  "issue_kind": "simulation",
+  "koyomi": {
+    "moon": 13.7,
+    "sunrise": "5:52",
+    "sunset": "16:58",
+    "tide": {
+      "high": [
+        [
+          "4:23",
+          127
+        ],
+        [
+          "16:09",
+          128
+        ]
+      ],
+      "low": [
+        [
+          "10:16",
+          47
+        ],
+        [
+          "22:32",
+          10
+        ]
+      ],
+      "place": "八丈島（神湊）予測"
+    }
+  },
+  "layout_type": "single_lead",
+  "letters": [],
+  "next": null,
+  "paper_name": "八丈島新聞",
+  "prev": null,
+  "programs": [],
+  "proof": false,
+  "published": "",
+  "reference_articles": [
+    {
+      "area_units": 0,
+      "body": [
+        "八丈町の公式案内によると、2025年の台風22・23号被災支援で寄せられた義援金は総額1億5,900万円で、2026年5月27日に委員会を開き、配分を決めた。",
+        "町によると、住家の罹災証明を受けた人への配分は、持家で全壊の場合を最上位の100万円とし、被害の段階別に支給する方針だ。",
+        "町は併せて、被災した10月9日時点で八丈町に住所があった人へ、1人1万円を分配すると案内している。"
+      ],
+      "headline": "八丈町の義援金配分案内　総額1億5,900万円、対象と金額",
+      "slot": "reference",
+      "sode": "2026年10月15日付の八丈町公式案内を基に、義援金の配分方針を整理する。",
+      "sources": [
+        {
+          "label": "八丈町（2026-10-16更新）",
+          "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260801-01/"
+        }
+      ],
+      "article_id": "c4bdd542e39717486353a7db",
+      "public_id": "c4bdd542e39717486353a7db",
+      "permalink": "/articles/c4bdd542e39717486353a7db/"
+    }
+  ],
+  "reference_sections": [
+    {
+      "date": "2026-10-16",
+      "kind": "dated_reference_not_new_news",
+      "paragraphs": [
+        "八丈町の公式案内によると、2025年の台風22・23号被災支援で寄せられた義援金は総額1億5,900万円で、2026年5月27日に委員会を開き、配分を決めた。",
+        "町によると、住家の罹災証明を受けた人への配分は、持家で全壊の場合を最上位の100万円とし、被害の段階別に支給する方針だ。",
+        "町は併せて、被災した10月9日時点で八丈町に住所があった人へ、1人1万円を分配すると案内している。"
+      ],
+      "permalink": "/articles/c4bdd542e39717486353a7db/",
+      "section": "公金・制度の解説（既存資料）",
+      "source_url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260801-01/",
+      "title": "八丈町の義援金配分案内　総額1億5,900万円、対象と金額"
+    }
+  ],
+  "service_note": "出典を照合した紙面。警報の最新状況は未確認。",
+  "service_states": {
+    "tide": "ok",
+    "traffic": "per_flight_parse_pending",
+    "warnings": "missing_or_stale",
+    "weather": "ok"
+  },
+  "shorts": [],
+  "side": [
+    {
+      "area_units": 18,
+      "body": [
+        "八丈町は2026年10月23日付の公式ページで、町公式、町立八丈病院、町立図書館、町営バスの各ホームページについて、PHPの脆弱性対策を実施済みと公表した。",
+        "町によると、10月21日の修正パッチ公表後にサーバ事業者等が対応し、現在は通常通り運用している。",
+        "町は、町立小中学校のホームページは該当するPHPを使用しておらず、影響がないことを事業者の声明で確認したとしている。"
+      ],
+      "headline": "八丈町、PHP脆弱性への対策実施を公表",
+      "slot": "secondary",
+      "sode": "町公式や病院などのホームページは通常運用と説明",
+      "sources": [
+        {
+          "label": "八丈町（2026-10-23更新）",
+          "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261023-2/"
+        }
+      ],
+      "article_id": "a709a9c5d79d0f79a46dff53",
+      "public_id": "a709a9c5d79d0f79a46dff53",
+      "permalink": "../../../articles/a709a9c5d79d0f79a46dff53/"
+    }
+  ],
+  "television": {
+    "aspect_ratio": "16:9",
+    "controls_height_px": 44,
+    "url": "https://tv.hachijojima.jp/embed.html"
+  },
+  "top": {
+    "area_units": 32,
+    "body": [
+      "八丈町は2026年10月23日付の公式ページで、町が利用する消防組織向け一斉連絡用システム「119ライデン」と緊急通報システム「NET119」への不正アクセスについて、事業者から19日にメールアドレス5件の流出が確認されたとの報告を受けたと公表した。",
+      "町によると、14日に事態を把握し、登録者へ速報と注意喚起を連絡、被害範囲の確定後には対象者へ個別に報告した。",
+      "町は、事業者の対処で不正アクセスは遮断され、サービスは復旧したと説明している。"
+    ],
+    "headline": "メールアドレス5件の流出、八丈町が公表　119ライデン・NET119",
+    "slot": "lead",
+    "sode": "八丈町の公式ページによると、登録者への連絡と注意喚起を行い、サービスは復旧したという。",
+    "sources": [
+      {
+        "label": "八丈町（2026-10-23更新）",
+        "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261023/"
+      }
+    ],
+    "article_id": "95932cd894de35d8689889ba",
+    "public_id": "95932cd894de35d8689889ba",
+    "permalink": "../../../articles/95932cd894de35d8689889ba/"
+  },
+  "weather": {
+    "acquired_at": "2026-10-24T20:29:06.697386+00:00",
+    "area": "伊豆諸島南部",
+    "days": [
+      {
+        "label": "きょう（10/25）",
+        "max": 28,
+        "min": null,
+        "pops": [
+          [
+            "6〜12時",
+            "20"
+          ],
+          [
+            "12〜18時",
+            "30"
+          ],
+          [
+            "18〜24時",
+            "40"
+          ]
+        ],
+        "target_date": "2026-10-25",
+        "wave": "3メートル 後 2.5メートル うねり を伴う ただし 三宅島 では 3メートル うねり を伴う",
+        "weather": "くもり 三宅島 では 夜 雨 で 雷を伴い 激しく 降る",
+        "wind": "南西の風 やや強く"
+      },
+      {
+        "label": "あす（10/26）",
+        "max": 26,
+        "min": 22,
+        "pops": [
+          [
+            "0〜6時",
+            "50"
+          ],
+          [
+            "6〜12時",
+            "50"
+          ],
+          [
+            "12〜18時",
+            "70"
+          ],
+          [
+            "18〜24時",
+            "80"
+          ]
+        ],
+        "target_date": "2026-10-26",
+        "wave": "2.5メートル 後 3メートル うねり を伴う",
+        "weather": "雨 昼過ぎ まで 時々 くもり 三宅島 では 雷を伴い 激しく 降る",
+        "wind": "南西の風 やや強く 三宅島 では 北東の風 強く"
+      }
+    ],
+    "issued": "2026-10-25T05:00",
+    "issued_at": "2026-10-24T20:00:00+00:00",
+    "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json"
+  },
+  "weekly": []
+}
