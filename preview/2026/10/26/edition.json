@@ -26,12 +26,13 @@
     "d51e9c676b0e0bebb8fec6cb",
     "c8f7faef5b321cf2b5322ef7"
   ],
+  "brief_columns": 3,
   "chart": null,
   "corrections": [],
   "date": "2026-10-26",
   "density": "compact",
   "edition": "朝刊",
-  "evidence_cutoff_at": "2026-10-25T12:32:58.965833+00:00",
+  "evidence_cutoff_at": "2026-10-25T12:46:58.707032+00:00",
   "issue": 0,
   "issue_kind": "unpublished_proof",
   "koyomi": {
