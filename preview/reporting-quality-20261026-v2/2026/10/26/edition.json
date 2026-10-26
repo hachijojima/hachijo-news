@@ -58,7 +58,7 @@
   "date": "2026-10-26",
   "density": "compact",
   "edition": "朝刊",
-  "evidence_cutoff_at": "2026-10-26T04:10:32.262587+00:00",
+  "evidence_cutoff_at": "2026-10-26T04:33:13.952805+00:00",
   "issue": 0,
   "issue_kind": "unpublished_proof",
   "koyomi": {
@@ -300,13 +300,15 @@
         "direction": "八丈島行き",
         "id": "traffic-row:4298f33b2615433d6656c8a0c7edea32",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "",
         "operator": "全日空(ANA)",
         "origin": "羽田空港",
         "service": "1891便",
         "source_row_id": "10810143",
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "運航"
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "08:55",
@@ -315,13 +317,15 @@
         "direction": "八丈島行き",
         "id": "traffic-row:789dcd5cbd2aed5d33d390bf854ab3a4",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": true,
         "note": "詳細は事業者HPをご確認ください",
         "operator": "東海汽船",
         "origin": "【三宅島】三宅島 伊ヶ谷港 御蔵島",
         "service": "3500便",
         "source_row_id": "11110578",
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "運航"
+        "status": "運航／欠航・運休",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "10:30",
@@ -330,13 +334,15 @@
         "direction": "八丈島行き",
         "id": "traffic-row:78aad691aaec1035df130afada06276b",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "詳細は事業者HPをご確認ください",
         "operator": "東邦航空",
         "origin": "青ヶ島",
         "service": "12便",
         "source_row_id": "11110589",
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "事業者の発表を確認"
+        "status": "その他情報あり",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "13:25",
@@ -345,13 +351,15 @@
         "direction": "八丈島行き",
         "id": "traffic-row:ad13c9994e8d24258aee91cf6d754e70",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "",
         "operator": "全日空(ANA)",
         "origin": "羽田空港",
         "service": "1893便",
         "source_row_id": "11110495",
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "運航"
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "15:15",
@@ -360,13 +368,15 @@
         "direction": "八丈島行き",
         "id": "traffic-row:b611c142b7b23a3e8b7304a5d288747d",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "詳細は事業者HPをご確認ください",
         "operator": "東邦航空",
         "origin": "御蔵島",
         "service": "22便",
         "source_row_id": "10809788",
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "事業者の発表を確認"
+        "status": "その他情報あり",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "15:50",
@@ -375,13 +385,15 @@
         "direction": "八丈島行き",
         "id": "traffic-row:90da1f89b5a9a57b6515706c21114fbc",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "詳細は事業者HPをご確認ください",
         "operator": "伊豆諸島開発",
         "origin": "青ヶ島",
         "service": "ー",
         "source_row_id": "11110585",
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "事業者の発表を確認"
+        "status": "欠航・運休",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "16:50",
@@ -390,13 +402,15 @@
         "direction": "八丈島行き",
         "id": "traffic-row:fb591f0f34773d5a0433db215bb23475",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "",
         "operator": "全日空(ANA)",
         "origin": "羽田空港",
         "service": "1895便",
         "source_row_id": "11110496",
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "運航"
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "翌 08:55",
@@ -405,13 +419,15 @@
         "direction": "八丈島行き",
         "id": "traffic-row:fc5ad301f99dfcb9c3c76c2c9c0b0c75",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "詳細は事業者HPをご確認ください",
         "operator": "東海汽船",
         "origin": "竹芝",
         "service": "3500便",
         "source_row_id": "11110482",
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "事業者の発表を確認"
+        "status": "その他情報あり",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "09:55",
@@ -420,13 +436,15 @@
         "direction": "八丈島発",
         "id": "traffic-row:d1a8ecb8c53ea543be32daebf4abc567",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "",
         "operator": "全日空(ANA)",
         "origin": "八丈島空港",
         "service": "1892便",
         "source_row_id": null,
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "運航"
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "12:30",
@@ -435,13 +453,15 @@
         "direction": "八丈島発",
         "id": "traffic-row:a0fb2823492f32604a52be27f8528754",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "詳細は事業者HPをご確認ください",
         "operator": "伊豆諸島開発",
         "origin": "八丈島",
         "service": "ー",
         "source_row_id": null,
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "事業者の発表を確認"
+        "status": "欠航・運休",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "10:00",
@@ -450,13 +470,15 @@
         "direction": "八丈島発",
         "id": "traffic-row:9adb1d9ddca74b721ae1a6e98e703983",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "詳細は事業者HPをご確認ください",
         "operator": "東邦航空",
         "origin": "八丈島",
         "service": "11便",
         "source_row_id": null,
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "事業者の発表を確認"
+        "status": "その他情報あり",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "12:35 13:35 16:20 20:55",
@@ -465,13 +487,15 @@
         "direction": "八丈島発",
         "id": "traffic-row:f5c78517f08a60e9ecd9f3311cb0830e",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": true,
         "note": "詳細は事業者HPをご確認ください",
         "operator": "東海汽船",
         "origin": "八丈島",
         "service": "2500便",
         "source_row_id": null,
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "運航"
+        "status": "その他情報あり／運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "11:15",
@@ -480,13 +504,15 @@
         "direction": "八丈島発",
         "id": "traffic-row:04d25622ea159c7cc04f4b334a455eb9",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "詳細は事業者HPをご確認ください",
         "operator": "東邦航空",
         "origin": "八丈島",
         "service": "21便",
         "source_row_id": null,
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "事業者の発表を確認"
+        "status": "その他情報あり",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "14:55",
@@ -495,13 +521,15 @@
         "direction": "八丈島発",
         "id": "traffic-row:1e72e76fd932a94d6d0e44ca6b5d555b",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "",
         "operator": "全日空(ANA)",
         "origin": "八丈島空港",
         "service": "1894便",
         "source_row_id": null,
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "運航"
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       },
       {
         "arrival": "18:30",
@@ -510,16 +538,19 @@
         "direction": "八丈島発",
         "id": "traffic-row:4b8bac0a3b242854747b6c23a5ae6a5e",
         "issued_at": "2026-10-26T07:48:00+09:00",
+        "multiple_segment_statuses": false,
         "note": "",
         "operator": "全日空(ANA)",
         "origin": "八丈島空港",
         "service": "1896便",
         "source_row_id": null,
         "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
-        "status": "運航"
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
       }
     ],
-    "note": "案内の更新時刻時点。出発前に事業者の発表も確認。",
+    "engine_extracted_at": "2026-10-26T04:33:20.446506+00:00",
+    "note": "案内の更新時刻時点。「運航」は予定を含む。出発前に事業者の発表も確認。",
     "parsed_rows": 15,
     "source_issued_at": "2026-10-26T07:48:00+09:00",
     "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
