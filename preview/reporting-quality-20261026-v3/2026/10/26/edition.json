@@ -599,5 +599,15 @@
     "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
     "temperature_point_code": "44263"
   },
-  "weekly": []
+  "weekly": [],
+  "today_song": {
+    "掲載日": "2026/10/26",
+    "track_id": "584",
+    "artist": "Mr.Children",
+    "title": "名もなき詩",
+    "text": "桜井和寿の言葉は、ときどき自分で自分に追いつけなくなるほど急ぎます。Mr.Childrenの「名もなき詩」は、きれいな名言を並べるのではなく、言いたいことがあふれる勢いそのものを歌にしたようです。伝わらない苛立ちも、自分への腹立ちも隠せない。整った説明より、途中でつまずく言葉の方が届くこともある。その必死さが胸を打ちます。",
+    "date": "2026-10-26",
+    "spotify": null,
+    "search_url": "https://open.spotify.com/search/Mr.Children%20%E5%90%8D%E3%82%82%E3%81%AA%E3%81%8D%E8%A9%A9"
+  }
 }
