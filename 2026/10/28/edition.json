@@ -1,0 +1,517 @@
+{
+  "actual_published_at": null,
+  "agenda": null,
+  "agenda_entries": [
+    {
+      "application": "無料",
+      "date": "2026-10-31",
+      "end_date": null,
+      "end_time": "16:00",
+      "occurrence_id": "event:e3038dcf24a3ca2a11be33b656f1c04c",
+      "organizer": "八丈島民謡保存会",
+      "source_url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026",
+      "start_time": "13:30",
+      "status": "scheduled",
+      "title": "八丈島の民謡 公開練習会",
+      "venue": "八丈町大賀郷公民館"
+    },
+    {
+      "application": "入場無料",
+      "date": "2026-11-01",
+      "end_time": "17:00",
+      "occurrence_id": "event:9658268fe9650db8afb4012be3638bec",
+      "organizer": "八丈町",
+      "source_url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/",
+      "start_time": "10:00",
+      "status": "scheduled",
+      "title": "発酵中フェス2026",
+      "venue": "八丈町多目的ホール「おじゃれ」"
+    },
+    {
+      "application": "",
+      "date": "2026-10-24",
+      "end_date": "2026-11-03",
+      "end_time": "16:30",
+      "occurrence_id": "event:b3b21c3ae14fbe39a3259c6f955322c6",
+      "organizer": "八丈支庁総務課",
+      "source_url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026",
+      "start_time": "09:00",
+      "status": "scheduled",
+      "title": "八丈島民政資料",
+      "venue": "八丈支庁展示ホール"
+    }
+  ],
+  "alerts": [],
+  "article_order": [
+    "a06202a0c4be4bfa0a171401",
+    "e5126dbb42fa6bfac786d0d7",
+    "555c64bf8a5f720fc6e195ea"
+  ],
+  "articles": [
+    {
+      "area_units": 16,
+      "body": [
+        "東海汽船は10月27日付の公式ページで、東京都、関東運輸局と同日、第2回改善改革推進会議を開いたと公表した。",
+        "同社の第1回会議の発表によると、この会議は行政処分を受けて設置され、改善計画などに基づく安全対策の実施状況を都と同局が確認し、安全運航体制の強化と島民や利用者の信頼回復につなげることを目的としている。",
+        "同社によると、第2回では安全管理と経営管理の体制強化に向け、取締役会の開催頻度の見直し、内部監査体制の強化、外部監査の活用について報告し、アルコール管理の新たな規程の検討状況を説明した。",
+        "貨物輸送では、各島への生活物資などの輸送状況と、海産物の出荷を巡る関係者との調整状況を報告したとしている。",
+        "また同社は、船内サービスや接遇、設備、問い合わせなどに関する利用者の意見を集約して改善策の検討・実施につなげ、取り組み状況をホームページなどで継続して発信する方針を説明したという。",
+        "同社によると、重大事案が起きた際の関係機関への迅速な情報共有や、各島の関係者と継続的に対話する重要性についても意見が交わされた。"
+      ],
+      "headline": "東海汽船、第2回改善改革推進会議の開催を公表　利用者意見の集約・改善状況の発信方針示す",
+      "slot": "article",
+      "sode": "",
+      "sources": [
+        {
+          "label": "東海汽船（2026-10-27更新）",
+          "url": "https://www.tokaikisen.co.jp/news/838004/"
+        },
+        {
+          "label": "東海汽船・追加取材資料",
+          "url": "https://www.tokaikisen.co.jp/news/833083/"
+        }
+      ],
+      "article_id": "a06202a0c4be4bfa0a171401",
+      "public_id": "a06202a0c4be4bfa0a171401",
+      "permalink": "../../../articles/a06202a0c4be4bfa0a171401/"
+    },
+    {
+      "area_units": 16,
+      "body": [
+        "JA八丈島の2026年版ディスクロージャー誌に掲載された損益計算書によると、2025年度は事業利益が24,668千円の赤字となる一方、当期剰余金は7,699千円の黒字だった。",
+        "同資料では、2024年度の事業利益は21,058千円の赤字で、2025年度は赤字が拡大し、経常利益も3,941千円の赤字から14,343千円の赤字になった。",
+        "JAは事業の概況で、購買事業や販売事業の収益減に加え、人件費などの費用削減が計画通りに進まなかったことなどが影響したと説明している。",
+        "ただし、同資料の損益計算書では、購買事業総利益は2024年度の60,188千円から2025年度は67,272千円に増え、販売事業総利益は24,918千円から20,280千円に減っており、両事業が一律に前年比減益となったわけではない。",
+        "同資料によると、事業管理費は184,459千円から184,481千円と、ほぼ横ばいだった。",
+        "最終損益についてJAは、大賀郷店の移転関係や台風災害共済金などに伴う特別利益・損失により、当期利益を計上したと説明している。",
+        "同資料に記載された2025年度の特別利益は134,005千円、特別損失は111,672千円で、最終黒字と事業段階の赤字が併存する決算となっている。"
+      ],
+      "headline": "JA八丈島の決算資料、2025年度は事業赤字拡大も最終黒字",
+      "slot": "article",
+      "sode": "",
+      "sources": [
+        {
+          "label": "JA八丈島（公表日不明）",
+          "url": "https://www.jahachijo.jp/date/dis7.pdf"
+        },
+        {
+          "label": "JA八丈島・原資料 PDF 8ページ",
+          "url": "https://www.jahachijo.jp/date/dis7.pdf#page=8"
+        },
+        {
+          "label": "JA八丈島・原資料 PDF 16ページ",
+          "url": "https://www.jahachijo.jp/date/dis7.pdf#page=16"
+        },
+        {
+          "label": "JA八丈島・原資料 PDF 17ページ",
+          "url": "https://www.jahachijo.jp/date/dis7.pdf#page=17"
+        },
+        {
+          "label": "JA八丈島・原資料 PDF 31ページ",
+          "url": "https://www.jahachijo.jp/date/dis7.pdf#page=31"
+        }
+      ],
+      "article_id": "e5126dbb42fa6bfac786d0d7",
+      "public_id": "e5126dbb42fa6bfac786d0d7",
+      "permalink": "../../../articles/e5126dbb42fa6bfac786d0d7/"
+    },
+    {
+      "area_units": 16,
+      "body": [
+        "東京都は2026年10月23日付の公式ページで、東京アプリを10月30日10時に更新し、「東京アプリ生活応援事業」の代理申請を11月4日10時から受け付けると公表した。",
+        "更新後は再ログインが必要になるため、都は事前に登録メールアドレスを確認するよう呼びかけている。",
+        "都によると、生活応援事業の対象は、東京都に住民登録がある15歳以上で、マイナンバーカードを持つ人。",
+        "代理申請は、障害や認知症などにより自身でのスマートフォン操作が困難な人のうち、身体障害者手帳、精神障害者保健福祉手帳、療育手帳（知的障害）のいずれかを持つ人、または要介護・要支援認定を受けている人が対象となる。",
+        "代理人になれるのは親権者や成年後見人などの法定代理人、配偶者、2親等内の親族、同一世帯の人で、保佐人・補助人は委任された権限の範囲内で個別に対応する。",
+        "申請には、アプリの閲覧・操作などができる代理人登録を行い、対象者本人の障害者手帳または要介護・要支援認定を証明するものと、代理人の資格や本人との関係を証明する書類を提出する必要がある。",
+        "本人と代理人双方のマイナンバーカードによる本人確認も必要で、代理申請の受付期間は2026年11月4日10時から2027年4月1日までとなっている。",
+        "都は、提出書類を審査した上で対象者本人のアカウントを作成し、東京ポイント11,000ポイントを付与するとしている。",
+        "代理申請で付与されたポイントを利用できる時期は、受付開始日とは別に案内するという。"
+      ],
+      "headline": "東京都、東京アプリの10月30日更新を案内　生活応援事業の代理申請は11月4日から",
+      "slot": "article",
+      "sode": "",
+      "sources": [
+        {
+          "label": "東京都（2026-10-23更新）",
+          "url": "https://www.metro.tokyo.lg.jp/information/press/2026/10/2026102312"
+        }
+      ],
+      "article_id": "555c64bf8a5f720fc6e195ea",
+      "public_id": "555c64bf8a5f720fc6e195ea",
+      "permalink": "../../../articles/555c64bf8a5f720fc6e195ea/"
+    }
+  ],
+  "chart": null,
+  "corrections": [],
+  "date": "2026-10-28",
+  "density": "compact",
+  "edition": "朝刊",
+  "editorial_policy": "independent-articles-title-only-20261027",
+  "evidence_cutoff_at": "2026-10-27T20:30:00+00:00",
+  "issue": 4,
+  "issue_kind": "formal",
+  "koyomi": {
+    "moon": 16.7,
+    "sunrise": "5:55",
+    "sunset": "16:54",
+    "tide": {
+      "high": [
+        [
+          "6:40",
+          130
+        ],
+        [
+          "17:29",
+          134
+        ]
+      ],
+      "low": [
+        [
+          "11:57",
+          70
+        ]
+      ],
+      "place": "八丈島（神湊）予測"
+    }
+  },
+  "layout_type": "articles",
+  "letters": [],
+  "next": null,
+  "paper_name": "八丈島新聞",
+  "prev": null,
+  "programs": [],
+  "proof": false,
+  "published": "",
+  "reference_articles": [],
+  "reference_sections": [],
+  "service_note": "出典を照合した紙面。警報の最新状況は未確認。",
+  "service_states": {
+    "tide": "ok",
+    "traffic": "current",
+    "warnings": "missing_or_stale",
+    "weather": "ok"
+  },
+  "television": {
+    "aspect_ratio": "16:9",
+    "controls_height_px": 44,
+    "url": "https://tv.hachijojima.jp/embed.html"
+  },
+  "today_song": {
+    "掲載日": "2026/10/28",
+    "track_id": "1306",
+    "artist": "鼓童",
+    "title": "族",
+    "text": "一つの太鼓の打音が仲間を呼び、大きなうねりに育っていく演奏です。ひとりの打ち手の技だけでなく、息を合わせる人たちの存在が見えてきます。昔から祭りや儀式で鳴らされてきた太鼓には、人を集める力がある。言葉を交わさなくても同じ拍を感じれば、少し仲間になれる。その原始的な喜びが、いまも鮮やかに残っています。",
+    "date": "2026-10-28",
+    "spotify": null,
+    "search_url": "https://open.spotify.com/search/%E9%BC%93%E7%AB%A5%20%E6%97%8F"
+  },
+  "traffic": {
+    "acquired_at": "2026-10-27T20:00:43.753429+00:00",
+    "current_rows": [
+      {
+        "arrival": "08:20",
+        "departure": "07:25",
+        "destination": "八丈島空港",
+        "direction": "八丈島行き",
+        "id": "traffic-row:4298f33b2615433d6656c8a0c7edea32",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "",
+        "operator": "全日空(ANA)",
+        "origin": "羽田空港",
+        "service": "1891便",
+        "source_row_id": "10811160",
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "08:55",
+        "departure": "05:10 06:05",
+        "destination": "八丈島",
+        "direction": "八丈島行き",
+        "id": "traffic-row:f0a911377a2cf748c208aab902cd6f39",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "詳細は事業者HPをご確認ください",
+        "operator": "東海汽船",
+        "origin": "三宅島 御蔵島",
+        "service": "3500便",
+        "source_row_id": "11104659",
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "欠航・運休",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "10:30",
+        "departure": "10:10",
+        "destination": "八丈島",
+        "direction": "八丈島行き",
+        "id": "traffic-row:78aad691aaec1035df130afada06276b",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "詳細は事業者HPをご確認ください",
+        "operator": "東邦航空",
+        "origin": "青ヶ島",
+        "service": "12便",
+        "source_row_id": "11104668",
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "その他情報あり",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "13:25",
+        "departure": "12:30",
+        "destination": "八丈島空港",
+        "direction": "八丈島行き",
+        "id": "traffic-row:ad13c9994e8d24258aee91cf6d754e70",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "",
+        "operator": "全日空(ANA)",
+        "origin": "羽田空港",
+        "service": "1893便",
+        "source_row_id": "11104582",
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "15:15",
+        "departure": "14:50",
+        "destination": "八丈島",
+        "direction": "八丈島行き",
+        "id": "traffic-row:b611c142b7b23a3e8b7304a5d288747d",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "詳細は事業者HPをご確認ください",
+        "operator": "東邦航空",
+        "origin": "御蔵島",
+        "service": "22便",
+        "source_row_id": "10810804",
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "その他情報あり",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "16:50",
+        "departure": "15:55",
+        "destination": "八丈島空港",
+        "direction": "八丈島行き",
+        "id": "traffic-row:fb591f0f34773d5a0433db215bb23475",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "",
+        "operator": "全日空(ANA)",
+        "origin": "羽田空港",
+        "service": "1895便",
+        "source_row_id": "11104583",
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "翌 08:55",
+        "departure": "22:30",
+        "destination": "八丈島",
+        "direction": "八丈島行き",
+        "id": "traffic-row:fc5ad301f99dfcb9c3c76c2c9c0b0c75",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "詳細は事業者HPをご確認ください",
+        "operator": "東海汽船",
+        "origin": "竹芝",
+        "service": "3500便",
+        "source_row_id": "11104210",
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "その他情報あり",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "09:55",
+        "departure": "09:00",
+        "destination": "羽田空港",
+        "direction": "八丈島発",
+        "id": "traffic-row:d1a8ecb8c53ea543be32daebf4abc567",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "",
+        "operator": "全日空(ANA)",
+        "origin": "八丈島空港",
+        "service": "1892便",
+        "source_row_id": null,
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "10:00",
+        "departure": "09:40",
+        "destination": "青ヶ島ヘリポート",
+        "direction": "八丈島発",
+        "id": "traffic-row:9adb1d9ddca74b721ae1a6e98e703983",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "詳細は事業者HPをご確認ください",
+        "operator": "東邦航空",
+        "origin": "八丈島",
+        "service": "11便",
+        "source_row_id": null,
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "その他情報あり",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "12:35 13:35 16:20 20:55",
+        "departure": "09:40",
+        "destination": "御蔵島 三宅島 大島 竹芝",
+        "direction": "八丈島発",
+        "id": "traffic-row:affd7e8fb1097247bd17c1b9ac24771e",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "詳細は事業者HPをご確認ください",
+        "operator": "東海汽船",
+        "origin": "八丈島",
+        "service": "2500便",
+        "source_row_id": null,
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "欠航・運休",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "11:15",
+        "departure": "10:50",
+        "destination": "御蔵島ヘリポート",
+        "direction": "八丈島発",
+        "id": "traffic-row:04d25622ea159c7cc04f4b334a455eb9",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "詳細は事業者HPをご確認ください",
+        "operator": "東邦航空",
+        "origin": "八丈島",
+        "service": "21便",
+        "source_row_id": null,
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "その他情報あり",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "14:55",
+        "departure": "14:00",
+        "destination": "羽田空港",
+        "direction": "八丈島発",
+        "id": "traffic-row:1e72e76fd932a94d6d0e44ca6b5d555b",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "",
+        "operator": "全日空(ANA)",
+        "origin": "八丈島空港",
+        "service": "1894便",
+        "source_row_id": null,
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      },
+      {
+        "arrival": "18:30",
+        "departure": "17:30",
+        "destination": "羽田空港",
+        "direction": "八丈島発",
+        "id": "traffic-row:4b8bac0a3b242854747b6c23a5ae6a5e",
+        "issued_at": "2026-10-28T05:00:00+09:00",
+        "multiple_segment_statuses": false,
+        "note": "",
+        "operator": "全日空(ANA)",
+        "origin": "八丈島空港",
+        "service": "1896便",
+        "source_row_id": null,
+        "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+        "status": "運航",
+        "status_basis": "same_page_legend_and_row_image_not_filename_guess"
+      }
+    ],
+    "engine_extracted_at": "2026-10-27T21:04:46.058749+00:00",
+    "note": "案内の更新時刻時点。「運航」は予定を含む。出発前に事業者の発表も確認。",
+    "parsed_rows": 13,
+    "source_issued_at": "2026-10-28T05:00:00+09:00",
+    "source_url": "https://www.islandaccess.metro.tokyo.lg.jp/traffic/hachijojima/",
+    "state": "current"
+  },
+  "weather": {
+    "acquired_at": "2026-10-27T20:00:31.756614+00:00",
+    "area": "伊豆諸島南部（八丈島を含む）",
+    "days": [
+      {
+        "label": "きょう（10/28）",
+        "max": 23,
+        "min": null,
+        "pops": [
+          [
+            "6〜12時",
+            "10"
+          ],
+          [
+            "12〜18時",
+            "20"
+          ],
+          [
+            "18〜24時",
+            "30"
+          ]
+        ],
+        "target_date": "2026-10-28",
+        "wave": "4メートル 後 2.5メートル ただし",
+        "weather": "晴れ 昼前 から くもり 所により 夕方 から 雨",
+        "wind": "北西の風 強く 後 東の風"
+      },
+      {
+        "label": "あす（10/29）",
+        "max": 23,
+        "min": 17,
+        "pops": [
+          [
+            "0〜6時",
+            "30"
+          ],
+          [
+            "6〜12時",
+            "50"
+          ],
+          [
+            "12〜18時",
+            "50"
+          ],
+          [
+            "18〜24時",
+            "50"
+          ]
+        ],
+        "target_date": "2026-10-29",
+        "wave": "2メートル 後 2.5メートル ただし",
+        "weather": "くもり 時々 雨",
+        "wind": "東の風 後 南西の風 やや強く"
+      }
+    ],
+    "excluded_foreign_area_clauses": [
+      {
+        "excluded": "三宅島 では 4メートル 後 2メートル",
+        "field": "wave",
+        "original": "4メートル 後 2.5メートル ただし 三宅島 では 4メートル 後 2メートル"
+      },
+      {
+        "excluded": "三宅島 では 1.5メートル 後 2.5メートル",
+        "field": "wave",
+        "original": "2メートル 後 2.5メートル ただし 三宅島 では 1.5メートル 後 2.5メートル"
+      }
+    ],
+    "geographic_scope": "regional_forecast_hachijo_station_temperature",
+    "issued": "2026-10-28T05:00",
+    "issued_at": "2026-10-27T20:00:00+00:00",
+    "source_area_code": "130030",
+    "source_url": "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json",
+    "temperature_point_code": "44263"
+  },
+  "weekly": []
+}
