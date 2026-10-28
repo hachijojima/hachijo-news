@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://news.hachijojima.jp/sitemap.xml
