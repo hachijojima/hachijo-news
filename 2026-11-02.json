@@ -53,5 +53,41 @@
     ],
     "event_date": "2026-12-10",
     "written_at": "2026-11-01T09:36:09.023955+09:00"
+  },
+  {
+    "id": "0e352bf0bd9a23ab94a88184",
+    "label": "町政",
+    "title": "八丈町の審議結果資料　介護保険補正予算、2026年9月4日に原案可決",
+    "body": [
+      "八丈町が公表した2026年の議会審議結果によると、2026年度介護保険特別会計補正予算（第2号、議案第53号）は、2026年9月4日に原案可決と記録されている。",
+      "八丈町の同日提出の予算書によると、歳入歳出にそれぞれ72,491千円を追加し、補正後の総額をそれぞれ1,160,315千円とする内容だ。",
+      "八丈町の予算書の歳入明細では、追加財源として前年度繰越金71,909千円と、低所得者保険料軽減繰入金の過年度分582千円を計上している。",
+      "八丈町の予算書の歳出明細では、介護給付費準備基金積立金26,505千円、過年度に係る保険料払戻金として第1号被保険者保険料還付金1,269千円、国・支払基金・都への前年度分返還金34,048千円を追加計上している。",
+      "八丈町の同予算書では、一般会計繰出金も10,671千円追加し、予備費は2千円減額する内容で、これらは予算への計上額を示している。"
+    ],
+    "sources": [
+      {
+        "label": "八丈町（2026-10-29更新）",
+        "url": "https://www.town.hachijo.tokyo.jp/chousei/chougikai/katsushin/shingi-kekka/r8-shingikekka/"
+      },
+      {
+        "label": "八丈町・追加取材資料",
+        "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/09/04162905/R8%E4%BB%8B%E8%AD%B7%E8%A3%9C%E6%AD%A3%E4%BA%88%E7%AE%97%E6%9B%B8%EF%BC%99%E6%9C%88.pdf#page=3"
+      },
+      {
+        "label": "八丈町・追加取材資料",
+        "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/09/04162905/R8%E4%BB%8B%E8%AD%B7%E8%A3%9C%E6%AD%A3%E4%BA%88%E7%AE%97%E6%9B%B8%EF%BC%99%E6%9C%88.pdf#page=6"
+      },
+      {
+        "label": "八丈町・追加取材資料",
+        "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/09/04162905/R8%E4%BB%8B%E8%AD%B7%E8%A3%9C%E6%AD%A3%E4%BA%88%E7%AE%97%E6%9B%B8%EF%BC%99%E6%9C%88.pdf#page=7"
+      },
+      {
+        "label": "八丈町・追加取材資料",
+        "url": "https://www.town.hachijo.tokyo.jp/chousei/chougikai/katsushin/shingi-kekka/r8-shingikekka/"
+      }
+    ],
+    "event_date": "2026-09-04",
+    "written_at": "2026-11-01T12:07:32.084266+09:00"
   }
 ]
